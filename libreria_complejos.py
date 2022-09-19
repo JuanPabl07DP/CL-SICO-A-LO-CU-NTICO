@@ -1,3 +1,6 @@
+#Juan Pablo Daza Pereira
+#CNYT
+
 import math
 
 
