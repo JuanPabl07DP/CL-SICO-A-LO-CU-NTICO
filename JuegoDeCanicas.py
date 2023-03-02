@@ -1,5 +1,5 @@
 #Juan Pablo Daza Pereira
-#CNYT
+#CNYT 2023-1
 #De lo clasico a lo cuantico
 import libreria_complejos as lc
 import numpy as np
