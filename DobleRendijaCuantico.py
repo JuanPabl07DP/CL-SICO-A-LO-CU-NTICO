@@ -1,3 +1,4 @@
+#CNYT 2023-1
 import libreria_complejos as lc
 import numpy as np
 import matplotlib.pyplot as plt
